@@ -5,7 +5,6 @@
 
 using namespace std;
 
-
 int part1(istream& input) {
 #define MAX_R 12
 #define MAX_G 13
